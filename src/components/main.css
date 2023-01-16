@@ -1,0 +1,30 @@
+.form-cover {
+  background-image: url("./../../public/images/1.jpg");
+  background-size:cover;
+  background-position:center center;
+  height: 100vh;
+  background-repeat:no-repeat;
+}
+
+.taskForm-cover  {
+  background-image: url("./../../public/images/3.jpg");
+  background-size:cover;
+  background-position:center center;
+  height: 100vh;
+  background-repeat:no-repeat;
+}
+
+.tableHeader{
+  background-color: darkgray;
+  color: black;
+}
+
+.tableCell {
+  font-weight: 700 !important;
+}
+
+.topic {
+  text-align: "center";
+  font-family:'Times New Roman', Times, serif;
+  letter-spacing: .2rem;
+}
